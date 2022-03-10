@@ -1,4 +1,4 @@
-# music-recommendation-app
+# a spotify app
 
 ## Project setup
 ```
